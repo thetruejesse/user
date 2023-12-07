@@ -1,0 +1,8 @@
+input:invalid:focus {
+    border: 3px solid red;
+}
+
+div {
+    text-align: center;
+    font-weight: 200;
+}
